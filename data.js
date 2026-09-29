@@ -16,6 +16,7 @@ const SITE_DATA = {
   },
 
   shortFormVideos: [
+    { href: "https://x.com/deftsu01/status/2104704397489951020?s=20",          thumbnail: "images/twitter/18.png",  title: "SoloBoom Challenge Presentation",              date: "September 28th, 2026 | deftsulol" },
     { href: "https://x.com/LxVer8/status/2093683010717577379?s=20",            thumbnail: "images/twitter/17.png",  title: "SoloQ Challenge 2026 (Part 2, 3 and 4)",       date: "August 30th, 2026 | EkkoTheNeeko" },
     { href: "https://x.com/EkkoTheNeekoTW/status/2091860382855966879?s=20",    thumbnail: "images/twitter/16.png",  title: "SoloQ Challenge 2026 (Part 1)",                date: "August 24th, 2026 | EkkoTheNeeko" },
     { href: "https://x.com/LxVer8/status/2082821077017711041?s=20",            thumbnail: "images/twitter/15.png",  title: "eko de neko soloq chalenge!!!!!!",             date: "July 30th, 2026 | EkkoTheNeeko" },
