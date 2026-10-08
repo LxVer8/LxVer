@@ -16,6 +16,7 @@ const SITE_DATA = {
   },
 
   shortFormVideos: [
+    { href: "https://x.com/LxVer8/status/2107608744641052976?s=20",            thumbnail: "images/twitter/21.png",  title: "i got even more inspired",                     date: "October 6th, 2026 | LxVer" },
     { href: "https://x.com/LxVer8/status/2107250300126191974?s=20",            thumbnail: "images/twitter/20.png",  title: "i got inspired",                               date: "October 5th, 2026 | LxVer" },
     { href: "https://x.com/LxVer8/status/2106914593218179102?s=20",            thumbnail: "images/twitter/19.png",  title: "i just had to do it",                          date: "October 4th, 2026 | fay31" },
     { href: "https://x.com/deftsu01/status/2104704397489951020?s=20",          thumbnail: "images/twitter/18.png",  title: "SoloBoom Challenge 6 Presentation",            date: "September 28th, 2026 | deftsulol" },
